@@ -1,0 +1,22 @@
+class Solution:
+    def pattern19(self, n):
+        s=0
+        for i in range(n,0,-1):
+            for j in range(0,i):
+                print("*",end="")
+            for j in range(s,0,-1):
+                print(" ",end="")
+            for j in range(i,0,-1):
+                print("*",end="")
+            s=s+2
+            print()
+        space=2*(n-1)
+        for i in range(0,n):
+            for j in range(0,i+1):
+                print("*",end="")
+            for j in range(0,space):
+                print(" ",end="")
+            for j in range(i+1,0,-1):
+                print("*",end="")
+            space=space-2
+            print()

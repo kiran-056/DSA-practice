@@ -1,3 +1,4 @@
+#half pyramid with the numbers.containing each row with j values.
 class Solution:
     def pattern3(self, n):
         for i in range(1,n+1):

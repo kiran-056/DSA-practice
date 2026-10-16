@@ -1,3 +1,4 @@
+#half pyramid with the stars.
 class Solution:
     def pattern2(self, n):
         for i in range(1,n+1):

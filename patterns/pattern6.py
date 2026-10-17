@@ -1,3 +1,4 @@
+#this is reverse half pyramid containg values of j.
 class Solution:
     def pattern6(self, n):
         for i in range(n,0,-1):

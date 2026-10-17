@@ -1,3 +1,4 @@
+#this is the code for the full pyramid with stars.
 class Solution:
     def pattern7(self, n):
         for i in range(0,n):

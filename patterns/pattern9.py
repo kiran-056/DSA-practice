@@ -1,3 +1,4 @@
+#this is the code to get the diamons using two pyramids.
 class Solution:
     def pattern9(self, n):
         for i in range(0,n):

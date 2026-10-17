@@ -1,3 +1,4 @@
+#this is the code for the side pyramid
 class Solution:
     def pattern10(self, n):
         for i in range(0,n):

@@ -1,3 +1,4 @@
+#this is code for the reverse pyramid
 class Solution:
     def pattern8(self, n):
         for i in range (n,0,-1):

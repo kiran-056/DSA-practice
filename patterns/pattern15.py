@@ -1,3 +1,4 @@
+#reverse pyramid with laphabets.
 class Solution:
     def pattern15(self, n):
         for i in range(n,0,-1):

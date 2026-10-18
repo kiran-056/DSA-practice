@@ -1,3 +1,4 @@
+#half pyramid with alphabets.
 class Solution:
     def pattern14(self, n):
         for i in range(0,n):

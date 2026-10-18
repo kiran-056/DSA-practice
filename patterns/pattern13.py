@@ -1,3 +1,4 @@
+#half pyramid with numbers.
 class Solution:
     def pattern13(self, n):
         k=1

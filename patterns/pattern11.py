@@ -1,3 +1,4 @@
+#this is the code for the half pyramid with 1 and 0's
 class Solution:
     def pattern11(self, n):
         start=0

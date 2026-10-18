@@ -1,3 +1,4 @@
+#code for the two half pyramids with containing spaces between them.
 class Solution:
     def pattern12(self, n):
         space=2*(n-1)
